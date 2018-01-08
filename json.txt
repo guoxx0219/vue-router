@@ -1,0 +1,1 @@
+[{"id":"1","title":"Global Config","pid":"0"},{"id":"2","title":"silent","pid":"1"},{"id":"3","title":"devtools","pid":"1"},{"id":"4","title":"Global API","pid":"0"},{"id":"5","title":"Vue.use","pid":"4"},{"id":"6","title":"Options / Data","pid":"0"},{"id":"7","title":"data","pid":"6"},{"id":"8","title":"props","pid":"6"}]
